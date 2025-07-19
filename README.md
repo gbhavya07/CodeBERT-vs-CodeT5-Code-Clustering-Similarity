@@ -40,4 +40,26 @@ This project presents a comparative analysis of **CodeBERT** and **CodeT5+** for
 
 ---
 
+---
 
+## 🧰 Tech Stack
+
+| Component            | Libraries/Models                              |
+|----------------------|-----------------------------------------------|
+| Code Embedding       | CodeBERT (HuggingFace), CodeT5+               |
+| Clustering           | Scikit-learn (DBSCAN, KMeans)                 |
+| Dimensionality Reduction | UMAP, t-SNE                            |
+| Visualization        | Matplotlib, Seaborn, Plotly                   |
+| Evaluation Metrics   | Silhouette Score, Davies-Bouldin Index        |
+| Language             | Python (PyTorch, Transformers, NumPy, etc.)   |
+
+---
+
+## 💡 Research Use Cases
+
+- Code plagiarism detection  
+- Code submission clustering for educators  
+- Detecting stylistic patterns in developer behavior  
+- Building AI-assisted feedback tools for code
+
+---
